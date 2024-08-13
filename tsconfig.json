@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "ES6", 
+      "module": "CommonJS",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "declaration": true,
+      //"sourceMap": true,
+      //"inlineSourceMap": true,
+      "strictNullChecks": true,
+      "noImplicitAny": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true
+    },
+  }
+  
